@@ -86,43 +86,81 @@ Nada de soluciones genéricas: entendemos tu proceso y luego diseñamos la herra
 
 ---
 
-🚀 Cómo trabajamos
-<div align="center"> <img src="https://raw.githubusercontent.com/techies-4j/.github/main/profile/assets/como-trabajamos.svg" alt="Cómo trabajamos: 1 Escuchamos, 2 Proponemos, 3 Desarrollamos, 4 Lanzamos" width="100%" /> </div>
+## 🚀 Cómo trabajamos
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/techies-4j/.github/main/profile/assets/como-trabajamos.svg" alt="Cómo trabajamos: 1 Escuchamos, 2 Proponemos, 3 Desarrollamos, 4 Lanzamos" width="100%" />
+
+</div>
 
 ---
 
 ## ✨ Por qué TECHIES
 
-| | |
-|---|---|
-| 💬 **Cercanos** | Lenguaje claro y trato directo, sin tecnicismos innecesarios |
-| 🤝 **Confiables** | Cumplimos plazos y explicamos con transparencia |
-| ⚡ **Ágiles** | Respuestas rápidas y procesos simples, sin burocracia |
-| 🧪 **Modernos** | Diseño actual y tecnología al día |
-| 🔍 **Curiosos** | Hacemos preguntas y entendemos tu problema antes de proponer |
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/techies-4j/.github/main/profile/assets/porque-techies.svg" alt="Por qué TECHIES: cercanos, confiables, ágiles, modernos y curiosos" width="100%" />
+
+</div>
+
+<details>
+<summary><b>Ver la lista en texto</b></summary>
+<br/>
+
+- **Cercanos:** lenguaje claro y trato directo, sin tecnicismos innecesarios
+- **Confiables:** cumplimos plazos y explicamos con transparencia
+- **Ágiles:** respuestas rápidas y procesos simples, sin burocracia
+- **Modernos:** diseño actual y tecnología al día
+- **Curiosos:** hacemos preguntas y entendemos tu problema antes de proponer
+
+</details>
 
 ---
 
 ## 💙 Nuestros valores
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/techies-4j/.github/main/profile/assets/valores.svg" alt="Nuestros valores: confianza, compromiso, calidad, transparencia y colaboración" width="100%" />
+
+</div>
+
+<details>
+<summary><b>Ver la lista en texto</b></summary>
+<br/>
+
 | Valor | Lo que significa |
 |-------|------------------|
-| 🤝 **Confianza** | Cumplimos lo que prometemos y cuidamos la información de nuestros clientes |
-| 🎯 **Compromiso** | Acompañamos cada proyecto desde la idea hasta la puesta en marcha |
-| ✨ **Calidad** | Entregamos software que funciona bien, es seguro y fácil de usar |
-| 🔍 **Transparencia** | Somos claros en plazos, costos y alcances |
-| 👥 **Colaboración** | Trabajamos junto al cliente y entre el equipo como un solo grupo |
+| **Confianza** | Cumplimos lo que prometemos y cuidamos la información de nuestros clientes |
+| **Compromiso** | Acompañamos cada proyecto desde la idea hasta la puesta en marcha |
+| **Calidad** | Entregamos software que funciona bien, es seguro y fácil de usar |
+| **Transparencia** | Somos claros en plazos, costos y alcances |
+| **Colaboración** | Trabajamos junto al cliente y entre el equipo como un solo grupo |
+
+</details>
 
 ---
 
-⚙️ Tecnologías con las que trabajamos
-<div align="center"> <img src="https://raw.githubusercontent.com/techies-4j/.github/main/profile/assets/tecnologias.svg" alt="Tecnologías de TECHIES. Frontend: Vue.js, React, SolidJS, Tailwind CSS. Backend: Laravel, Elysia, NestJS, Express.js. Móvil: Flutter, React Native. Lenguajes: JavaScript, TypeScript, PHP, Python, Dart. Datos: PostgreSQL, MySQL, SQLite. DevOps: Git, GitHub." width="100%" /> </div> <details> <summary><b>Ver la lista en texto</b></summary> <br/>
-Frontend: Vue.js, React, SolidJS, Tailwind CSS
-Backend: Laravel, Elysia, NestJS, Express.js
-Móvil: Flutter, React Native
-Lenguajes: JavaScript, TypeScript, PHP, Python, Dart
-Datos: PostgreSQL, MySQL, SQLite
-DevOps: Git, GitHub
+## ⚙️ Tecnologías con las que trabajamos
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/techies-4j/.github/main/profile/assets/tecnologias.svg" alt="Tecnologías de TECHIES. Frontend: Vue.js, React, SolidJS, Tailwind CSS. Backend: Laravel, Elysia, NestJS, Express.js. Móvil: Flutter, React Native. Lenguajes: JavaScript, TypeScript, PHP, Python, Dart. Datos: PostgreSQL, MySQL, SQLite. DevOps: Git, GitHub." width="100%" />
+
+</div>
+
+<details>
+<summary><b>Ver la lista en texto</b></summary>
+<br/>
+
+- **Frontend:** Vue.js, React, SolidJS, Tailwind CSS
+- **Backend:** Laravel, Elysia, NestJS, Express.js
+- **Móvil:** Flutter, React Native
+- **Lenguajes:** JavaScript, TypeScript, PHP, Python, Dart
+- **Datos:** PostgreSQL, MySQL, SQLite
+- **DevOps:** Git, GitHub
+
 </details>
 
 ---
@@ -167,7 +205,7 @@ Escuchamos tu idea, proponemos alcance, etapas y cronograma, desarrollamos con a
 <details>
 <summary><b>¿Con qué tecnologías trabajan?</b></summary>
 <br/>
-Laravel, Elysia y Node.js en backend; Vue, React y Solid en frontend; Flutter (Dart) para móviles; PostgreSQL, MySQL y SQLite como bases de datos.
+Laravel, Elysia, NestJS y Express.js en backend; Vue, React y Solid en frontend; Flutter (Dart) y React Native para móviles; PostgreSQL, MySQL y SQLite como bases de datos.
 </details>
 
 <details>
@@ -193,7 +231,7 @@ Te respondemos con una propuesta clara: alcance, etapas y cronograma.
 
 **Creciendo contigo, proyecto a proyecto.**
 
-<sub>software a medida · desarrollo web · apps móviles · sistemas de gestión · Laravel · Elysia · Vue · Solid · Flutter</sub>
+<sub>software a medida · desarrollo web · apps móviles · sistemas de gestión · Laravel · Elysia · NestJS · Express · Vue · Solid · Flutter · React Native</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A6C99,50:0B2A3F,100:121214&height=110&section=footer" alt="" width="100%" />
 
@@ -209,7 +247,7 @@ CÓMO PUBLICARLO
 
 SEO EN GITHUB (hazlo también fuera del README)
 - Settings de la organización: completa Description, Website, Email, Location y Twitter/LinkedIn.
-- En cada repo público: agrega Description y Topics (laravel, elysia, vuejs, solidjs, flutter, software-a-medida).
+- En cada repo público: agrega Description y Topics (laravel, elysia, nestjs, expressjs, vuejs, solidjs, flutter, react-native, software-a-medida).
 - Fija (pin) tus mejores repos y cambia proyecto-1/proyecto-2 por los reales.
 - El enlace al sitio web debe tener su propio SEO (title, meta description, sitemap); GitHub enlaza hacia él.
 -->
