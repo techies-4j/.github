@@ -1,15 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:121214,55:0B2A3F,100:0A6C99&height=170&section=header&animation=fadeIn" alt="" width="100%" />
+<img src="https://raw.githubusercontent.com/techies-4j/.github/main/profile/assets/header.svg" alt="TECHIES: desarrollo de software a medida, sistemas de gestión y aplicaciones web y móviles. Creciendo contigo, proyecto a proyecto." width="100%" />
 
-<img src="https://raw.githubusercontent.com/techies-4j/.github/main/profile/assets/logo-vertical.png" alt="TECHIES - Desarrollo de software a medida, sistemas de gestión, aplicaciones web y móviles" height="190" />
-
-<h1>TECHIES</h1>
-<h3>Desarrollo de software a medida · Aplicaciones web y móviles · Sistemas de gestión</h3>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1300&color=00D8FF&center=true&vCenter=true&width=800&lines=Creciendo+contigo%2C+proyecto+a+proyecto.;Sistemas+de+gesti%C3%B3n+a+medida;Aplicaciones+web+con+Laravel%2C+Elysia%2C+Vue+y+Solid;Aplicaciones+m%C3%B3viles+con+Flutter;De+la+idea+a+la+puesta+en+marcha" alt="Eslogan animado: Creciendo contigo, proyecto a proyecto" />
-
-<br/><br/>
+<br/>
 
 <p align="center">
   <a href="https://www.dominio.com"><img src="https://raw.githubusercontent.com/techies-4j/.github/main/profile/assets/btn-web.svg" alt="Sitio web de TECHIES" height="48" /></a>&nbsp;
@@ -19,9 +12,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/TU_ORG?style=flat-square&logo=github&logoColor=00D8FF&label=Seguidores&labelColor=0A0C10&color=00D8FF" alt="Seguidores en GitHub" />
-  <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&logo=github&logoColor=00D8FF&label=Repositorios&labelColor=0A0C10&color=00D8FF&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Forgs%2FTU_ORG" alt="Repositorios públicos" />
-  <img src="https://img.shields.io/github/last-commit/TU_ORG/proyecto-1?style=flat-square&logo=git&logoColor=00D8FF&label=Actividad&labelColor=0A0C10&color=00D8FF" alt="Última actividad" />
+  <img src="https://img.shields.io/github/followers/TU_ORG?style=for-the-badge&logo=github&logoColor=00D8FF&label=Seguidores&labelColor=121214&color=00D8FF" alt="Seguidores en GitHub" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=00D8FF&label=Repositorios&labelColor=121214&color=00D8FF&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Forgs%2FTU_ORG" alt="Repositorios públicos" />
+  <img src="https://img.shields.io/github/last-commit/TU_ORG/proyecto-1?style=for-the-badge&logo=git&logoColor=00D8FF&label=Actividad&labelColor=121214&color=00D8FF" alt="Última actividad" />
 </p>
 
 </div>
@@ -206,30 +199,24 @@ Depende del alcance. Te enviamos una propuesta clara con costos, etapas y plazos
 
 <div align="center">
 
-## 🤝 ¿Tienes una idea?
-
-**Cuéntanos qué proceso te quita más tiempo hoy.**
-Te respondemos con una propuesta clara: alcance, etapas y cronograma.
-
-[![Cuéntanos tu idea](https://img.shields.io/badge/Cuéntanos_tu_idea-00D8FF?style=for-the-badge&logo=gmail&logoColor=121214)](mailto:contacto@dominio.com)
+<a href="mailto:contacto@dominio.com"><img src="https://raw.githubusercontent.com/techies-4j/.github/main/profile/assets/cta.svg" alt="¿Tienes una idea? Cuéntanos qué proceso te quita más tiempo hoy. Te respondemos con una propuesta clara: alcance, etapas y cronograma." width="100%" /></a>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/techies-4j/.github/main/profile/assets/logo-gato.png" alt="Logo de TECHIES, gato" height="90" />
+<a href="mailto:contacto@dominio.com"><img src="https://raw.githubusercontent.com/techies-4j/.github/main/profile/assets/btn-idea.svg" alt="Cuéntanos tu idea" height="48" /></a>
 
-**Creciendo contigo, proyecto a proyecto.**
+<br/><br/>
 
 <sub>software a medida · desarrollo web · apps móviles · sistemas de gestión · Laravel · Elysia · NestJS · Express · Vue · Solid · Flutter · React Native</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A6C99,50:0B2A3F,100:121214&height=110&section=footer" alt="" width="100%" />
 
 </div>
 
 <!--
 CÓMO PUBLICARLO
 1. En tu organización de GitHub crea un repo PÚBLICO llamado exactamente ".github".
-2. Dentro crea la carpeta "profile" y sube README.md y la carpeta "assets" con los logos.
-   Estructura final: .github/profile/README.md  y  .github/profile/assets/*.png
+2. Dentro crea la carpeta "profile" y sube README.md y la carpeta "assets" con todos los archivos .svg.
+   Estructura final: .github/profile/README.md  y  .github/profile/assets/*.svg
+   (header, cta, btn-*, como-trabajamos, que-hacemos, porque-techies, valores, tecnologias)
 3. Reemplaza TU_ORG (nombre de la organización), TU_USUARIO_TIKTOK, TU_NOMBRE, dominio.com y el WhatsApp.
 4. El perfil aparece en github.com/TU_ORG.
 
