@@ -168,7 +168,7 @@ Te respondemos con una propuesta clara: alcance, etapas y cronograma.
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/TU_ORG/.github/main/profile/assets/logo-gato.png" alt="TECHIES" height="90" />
+<img src="https://raw.githubusercontent.com/techies-4j/.github/main/profile/assets/logo-gato.png" alt="TECHIES" height="90" />
 
 **Creciendo contigo, proyecto a proyecto.**
 
