@@ -115,73 +115,15 @@ Nada de soluciones genéricas: entendemos tu proceso y luego diseñamos la herra
 
 ---
 
-## ⚙️ Tecnologías con las que trabajamos
-
-<table>
-<tr>
-<td width="170" valign="middle"><b>🎨 Frontend</b></td>
-<td valign="middle">
-
-![Vue.js](https://img.shields.io/badge/Vue.js-0B2A3F?style=for-the-badge&logo=vuedotjs&logoColor=00D8FF)
-![React](https://img.shields.io/badge/React-0B2A3F?style=for-the-badge&logo=react&logoColor=00D8FF)
-![SolidJS](https://img.shields.io/badge/SolidJS-0B2A3F?style=for-the-badge&logo=solid&logoColor=00D8FF)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0B2A3F?style=for-the-badge&logo=tailwindcss&logoColor=00D8FF)
-
-</td>
-</tr>
-<tr>
-<td valign="middle"><b>🧠 Backend</b></td>
-<td valign="middle">
-
-![Laravel](https://img.shields.io/badge/Laravel-0A6C99?style=for-the-badge&logo=laravel&logoColor=white)
-![Elysia](https://img.shields.io/badge/Elysia-0A6C99?style=for-the-badge&logo=elysia&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-0A6C99?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td valign="middle"><b>📱 Móvil</b></td>
-<td valign="middle">
-
-![Flutter](https://img.shields.io/badge/Flutter-121214?style=for-the-badge&logo=flutter&logoColor=00D8FF)
-
-</td>
-</tr>
-<tr>
-<td valign="middle"><b>🗄️ Datos</b></td>
-<td valign="middle">
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-121214?style=for-the-badge&logo=postgresql&logoColor=00D8FF)
-![MySQL](https://img.shields.io/badge/MySQL-121214?style=for-the-badge&logo=mysql&logoColor=00D8FF)
-![SQLite](https://img.shields.io/badge/SQLite-121214?style=for-the-badge&logo=sqlite&logoColor=00D8FF)
-
-</td>
-</tr>
-<tr>
-<td valign="middle"><b>🧰 Lenguajes</b></td>
-<td valign="middle">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-121214?style=for-the-badge&logo=javascript&logoColor=00D8FF)
-![TypeScript](https://img.shields.io/badge/TypeScript-121214?style=for-the-badge&logo=typescript&logoColor=00D8FF)
-![PHP](https://img.shields.io/badge/PHP-121214?style=for-the-badge&logo=php&logoColor=00D8FF)
-![Python](https://img.shields.io/badge/Python-121214?style=for-the-badge&logo=python&logoColor=00D8FF)
-![C++](https://img.shields.io/badge/C++-121214?style=for-the-badge&logo=cplusplus&logoColor=00D8FF)
-![Dart](https://img.shields.io/badge/Dart-121214?style=for-the-badge&logo=dart&logoColor=00D8FF)
-
-</td>
-</tr>
-<tr>
-<td valign="middle"><b>🚢 DevOps</b></td>
-<td valign="middle">
-
-![Git](https://img.shields.io/badge/Git-0B2A3F?style=for-the-badge&logo=git&logoColor=00D8FF)
-![GitHub](https://img.shields.io/badge/GitHub-0B2A3F?style=for-the-badge&logo=github&logoColor=00D8FF)
-
-</td>
-</tr>
-</table>
-
-> Más íconos disponibles en [simpleicons.org](https://simpleicons.org). Deja solo los que realmente usan.
+⚙️ Tecnologías con las que trabajamos
+<div align="center"> <img src="https://raw.githubusercontent.com/techies-4j/.github/main/profile/assets/tecnologias.svg" alt="Tecnologías de TECHIES. Frontend: Vue.js, React, SolidJS, Tailwind CSS. Backend: Laravel, Elysia, Node.js. Móvil: Flutter. Lenguajes: JavaScript, TypeScript, PHP, Python, C++, Dart. Datos: PostgreSQL, MySQL, SQLite. DevOps: Git, GitHub." width="100%" /> </div> <details> <summary><b>Ver la lista en texto</b></summary> <br/>
+Frontend: Vue.js, React, SolidJS, Tailwind CSS
+Backend: Laravel, Elysia, Node.js
+Móvil: Flutter
+Lenguajes: JavaScript, TypeScript, PHP, Python, C++, Dart
+Datos: PostgreSQL, MySQL, SQLite
+DevOps: Git, GitHub
+</details>
 
 ---
 
