@@ -53,11 +53,16 @@ Ser el aliado tecnológico de quienes quieren llevar una idea a la realidad, cre
 
 ## 🛠️ Qué hacemos
 
-<div align="center"> <img src="https://raw.githubusercontent.com/techies-4j/.github/main/profile/assets/que-hacemos.svg" alt="Qué hacemos en TECHIES: sistemas de gestión, aplicaciones web, aplicaciones móviles y software a medida" width="100%" /> </div> <details> <summary><b>Ver la lista en texto</b></summary> <br/>
-Sistemas de gestión: ordenamos y optimizamos los procesos de tu organización: inventarios, clientes, reportes, facturación y más.
-Aplicaciones web: plataformas, paneles administrativos y sitios rápidos, optimizados para buscadores (SEO) y fáciles de usar.
-Aplicaciones móviles: tu proyecto siempre a la mano, con una experiencia pensada para Android e iOS.
-Software a medida: nada de soluciones genéricas: entendemos tu proceso y luego diseñamos la herramienta.
+<div align="center">
+<img src="https://raw.githubusercontent.com/techies-4j/.github/main/profile/assets/que-hacemos.svg" alt="Qué hacemos en TECHIES: sistemas de gestión, aplicaciones web, aplicaciones móviles y software a medida" width="100%" />
+</div>
+<details>
+<summary><b>Ver la lista en texto</b></summary>
+<br/>
+- **Sistemas de gestión:** ordenamos y optimizamos los procesos de tu organización: inventarios, clientes, reportes, facturación y más.
+- **Aplicaciones web:** plataformas, paneles administrativos y sitios rápidos, optimizados para buscadores (SEO) y fáciles de usar.
+- **Aplicaciones móviles:** tu proyecto siempre a la mano, con una experiencia pensada para Android e iOS.
+- **Software a medida:** nada de soluciones genéricas: entendemos tu proceso y luego diseñamos la herramienta.
 </details>
 ---
 
