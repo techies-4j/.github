@@ -7,7 +7,7 @@
 <h1>TECHIES</h1>
 <h3>Desarrollo de software a medida · Aplicaciones web y móviles · Sistemas de gestión</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1300&color=00D8FF&center=true&vCenter=true&width=800&lines=Creciendo+contigo%2C+proyecto+a+proyecto.;Sistemas+de+gesti%C3%B3n+a+medida;Aplicaciones+web+con+Laravel%2C+Vue%2C+Next.js+y+Solid;Aplicaciones+m%C3%B3viles+con+Flutter;De+la+idea+a+la+puesta+en+marcha" alt="Eslogan animado: Creciendo contigo, proyecto a proyecto" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1300&color=00D8FF&center=true&vCenter=true&width=800&lines=Creciendo+contigo%2C+proyecto+a+proyecto.;Sistemas+de+gesti%C3%B3n+a+medida;Aplicaciones+web+con+Laravel%2C+Elysia%2C+Vue+y+Solid;Aplicaciones+m%C3%B3viles+con+Flutter;De+la+idea+a+la+puesta+en+marcha" alt="Eslogan animado: Creciendo contigo, proyecto a proyecto" />
 
 <br/><br/>
 
@@ -132,7 +132,6 @@ Nada de soluciones genéricas: entendemos tu proceso y luego diseñamos la herra
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-0B2A3F?style=for-the-badge&logo=vuedotjs&logoColor=00D8FF)
 ![React](https://img.shields.io/badge/React-0B2A3F?style=for-the-badge&logo=react&logoColor=00D8FF)
-![Next.js](https://img.shields.io/badge/Next.js-0B2A3F?style=for-the-badge&logo=nextdotjs&logoColor=00D8FF)
 ![SolidJS](https://img.shields.io/badge/SolidJS-0B2A3F?style=for-the-badge&logo=solid&logoColor=00D8FF)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0B2A3F?style=for-the-badge&logo=tailwindcss&logoColor=00D8FF)
 
@@ -143,9 +142,8 @@ Nada de soluciones genéricas: entendemos tu proceso y luego diseñamos la herra
 <td valign="middle">
 
 ![Laravel](https://img.shields.io/badge/Laravel-0A6C99?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-0A6C99?style=for-the-badge&logo=php&logoColor=white)
+![Elysia](https://img.shields.io/badge/Elysia-0A6C99?style=for-the-badge&logo=elysia&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-0A6C99?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0A6C99?style=for-the-badge&logo=python&logoColor=white)
 
 </td>
 </tr>
@@ -162,6 +160,8 @@ Nada de soluciones genéricas: entendemos tu proceso y luego diseñamos la herra
 <td valign="middle">
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-121214?style=for-the-badge&logo=postgresql&logoColor=00D8FF)
+![MySQL](https://img.shields.io/badge/MySQL-121214?style=for-the-badge&logo=mysql&logoColor=00D8FF)
+![SQLite](https://img.shields.io/badge/SQLite-121214?style=for-the-badge&logo=sqlite&logoColor=00D8FF)
 
 </td>
 </tr>
@@ -171,6 +171,10 @@ Nada de soluciones genéricas: entendemos tu proceso y luego diseñamos la herra
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-121214?style=for-the-badge&logo=javascript&logoColor=00D8FF)
 ![TypeScript](https://img.shields.io/badge/TypeScript-121214?style=for-the-badge&logo=typescript&logoColor=00D8FF)
+![PHP](https://img.shields.io/badge/PHP-121214?style=for-the-badge&logo=php&logoColor=00D8FF)
+![Python](https://img.shields.io/badge/Python-121214?style=for-the-badge&logo=python&logoColor=00D8FF)
+![C++](https://img.shields.io/badge/C++-121214?style=for-the-badge&logo=cplusplus&logoColor=00D8FF)
+![Dart](https://img.shields.io/badge/Dart-121214?style=for-the-badge&logo=dart&logoColor=00D8FF)
 
 </td>
 </tr>
@@ -178,7 +182,6 @@ Nada de soluciones genéricas: entendemos tu proceso y luego diseñamos la herra
 <td valign="middle"><b>🚢 DevOps</b></td>
 <td valign="middle">
 
-![Docker](https://img.shields.io/badge/Docker-0B2A3F?style=for-the-badge&logo=docker&logoColor=00D8FF)
 ![Git](https://img.shields.io/badge/Git-0B2A3F?style=for-the-badge&logo=git&logoColor=00D8FF)
 ![GitHub](https://img.shields.io/badge/GitHub-0B2A3F?style=for-the-badge&logo=github&logoColor=00D8FF)
 
@@ -230,7 +233,7 @@ Escuchamos tu idea, proponemos alcance, etapas y cronograma, desarrollamos con a
 <details>
 <summary><b>¿Con qué tecnologías trabajan?</b></summary>
 <br/>
-Laravel y Node.js en backend; Vue, React, Next.js y Solid en frontend; Flutter para móviles; PostgreSQL como base de datos.
+Laravel, Elysia y Node.js en backend; Vue, React y Solid en frontend; Flutter (Dart) para móviles; PostgreSQL, MySQL y SQLite como bases de datos.
 </details>
 
 <details>
@@ -256,7 +259,7 @@ Te respondemos con una propuesta clara: alcance, etapas y cronograma.
 
 **Creciendo contigo, proyecto a proyecto.**
 
-<sub>software a medida · desarrollo web · apps móviles · sistemas de gestión · Laravel · Vue · Next.js · Solid · Flutter</sub>
+<sub>software a medida · desarrollo web · apps móviles · sistemas de gestión · Laravel · Elysia · Vue · Solid · Flutter</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A6C99,50:0B2A3F,100:121214&height=110&section=footer" alt="" width="100%" />
 
@@ -272,7 +275,7 @@ CÓMO PUBLICARLO
 
 SEO EN GITHUB (hazlo también fuera del README)
 - Settings de la organización: completa Description, Website, Email, Location y Twitter/LinkedIn.
-- En cada repo público: agrega Description y Topics (laravel, vuejs, nextjs, solidjs, flutter, software-a-medida).
+- En cada repo público: agrega Description y Topics (laravel, elysia, vuejs, solidjs, flutter, software-a-medida).
 - Fija (pin) tus mejores repos y cambia proyecto-1/proyecto-2 por los reales.
 - El enlace al sitio web debe tener su propio SEO (title, meta description, sitemap); GitHub enlaza hacia él.
 -->
