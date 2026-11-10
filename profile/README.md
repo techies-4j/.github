@@ -86,16 +86,8 @@ Nada de soluciones genéricas: entendemos tu proceso y luego diseñamos la herra
 
 ---
 
-## 🚀 Cómo trabajamos
-
-```text
-┌──────────────┐   ┌──────────────┐   ┌──────────────┐   ┌──────────────┐
-│ 01 ESCUCHAMOS│ → │ 02 PROPONEMOS│ → │ 03 DESARROLLA│ → │ 04 LANZAMOS  │
-│ Tu idea o    │   │ Alcance,     │   │ Avances      │   │ Puesta en    │
-│ tu proceso   │   │ etapas y     │   │ claros, sin  │   │ marcha y     │
-│              │   │ cronograma   │   │ sorpresas    │   │ soporte      │
-└──────────────┘   └──────────────┘   └──────────────┘   └──────────────┘
-```
+🚀 Cómo trabajamos
+<div align="center"> <img src="https://raw.githubusercontent.com/techies-4j/.github/main/profile/assets/como-trabajamos.svg" alt="Cómo trabajamos: 1 Escuchamos, 2 Proponemos, 3 Desarrollamos, 4 Lanzamos" width="100%" /> </div>
 
 ---
 
