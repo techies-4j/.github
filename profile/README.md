@@ -11,16 +11,18 @@
 
 <br/><br/>
 
-[![Sitio web](https://img.shields.io/badge/Sitio_web-00D8FF?style=for-the-badge&logo=googlechrome&logoColor=121214)](https://www.dominio.com)
-[![Correo](https://img.shields.io/badge/Escríbenos-121214?style=for-the-badge&logo=gmail&logoColor=00D8FF)](mailto:contacto@dominio.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-0B2A3F?style=for-the-badge&logo=whatsapp&logoColor=00D8FF)](https://wa.me/000000000000)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A6C99?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/TU_EMPRESA)
+<p align="center">
+  <a href="https://www.dominio.com"><img src="https://raw.githubusercontent.com/techies-4j/.github/main/profile/assets/btn-web.svg" alt="Sitio web de TECHIES" height="48" /></a>&nbsp;
+  <a href="mailto:contacto@dominio.com"><img src="https://raw.githubusercontent.com/techies-4j/.github/main/profile/assets/btn-correo.svg" alt="Escríbenos por correo" height="48" /></a>&nbsp;
+  <a href="https://wa.me/000000000000"><img src="https://raw.githubusercontent.com/techies-4j/.github/main/profile/assets/btn-whatsapp.svg" alt="Escríbenos por WhatsApp" height="48" /></a>&nbsp;
+  <a href="https://www.tiktok.com/@TU_USUARIO_TIKTOK"><img src="https://raw.githubusercontent.com/techies-4j/.github/main/profile/assets/btn-tiktok.svg" alt="TECHIES en TikTok" height="48" /></a>
+</p>
 
-<br/>
-
-![Seguidores](https://img.shields.io/github/followers/TU_ORG?style=flat-square&label=Seguidores&labelColor=121214&color=00D8FF)
-![Repositorios](https://img.shields.io/badge/dynamic/json?style=flat-square&label=Repositorios&labelColor=121214&color=00D8FF&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Forgs%2FTU_ORG)
-![Último commit](https://img.shields.io/github/last-commit/TU_ORG/proyecto-1?style=flat-square&label=Actividad&labelColor=121214&color=00D8FF)
+<p align="center">
+  <img src="https://img.shields.io/github/followers/TU_ORG?style=flat-square&logo=github&logoColor=00D8FF&label=Seguidores&labelColor=0A0C10&color=00D8FF" alt="Seguidores en GitHub" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&logo=github&logoColor=00D8FF&label=Repositorios&labelColor=0A0C10&color=00D8FF&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Forgs%2FTU_ORG" alt="Repositorios públicos" />
+  <img src="https://img.shields.io/github/last-commit/TU_ORG/proyecto-1?style=flat-square&logo=git&logoColor=00D8FF&label=Actividad&labelColor=0A0C10&color=00D8FF" alt="Última actividad" />
+</p>
 
 </div>
 
@@ -54,16 +56,22 @@ Ser el aliado tecnológico de quienes quieren llevar una idea a la realidad, cre
 ## 🛠️ Qué hacemos
 
 <div align="center">
+
 <img src="https://raw.githubusercontent.com/techies-4j/.github/main/profile/assets/que-hacemos.svg" alt="Qué hacemos en TECHIES: sistemas de gestión, aplicaciones web, aplicaciones móviles y software a medida" width="100%" />
+
 </div>
+
 <details>
 <summary><b>Ver la lista en texto</b></summary>
 <br/>
+
 - **Sistemas de gestión:** ordenamos y optimizamos los procesos de tu organización: inventarios, clientes, reportes, facturación y más.
 - **Aplicaciones web:** plataformas, paneles administrativos y sitios rápidos, optimizados para buscadores (SEO) y fáciles de usar.
 - **Aplicaciones móviles:** tu proyecto siempre a la mano, con una experiencia pensada para Android e iOS.
 - **Software a medida:** nada de soluciones genéricas: entendemos tu proceso y luego diseñamos la herramienta.
+
 </details>
+
 ---
 
 ## 🚀 Cómo trabajamos
@@ -222,11 +230,11 @@ CÓMO PUBLICARLO
 1. En tu organización de GitHub crea un repo PÚBLICO llamado exactamente ".github".
 2. Dentro crea la carpeta "profile" y sube README.md y la carpeta "assets" con los logos.
    Estructura final: .github/profile/README.md  y  .github/profile/assets/*.png
-3. Reemplaza TU_ORG (nombre de la organización), TU_EMPRESA, TU_NOMBRE, dominio.com y el WhatsApp.
+3. Reemplaza TU_ORG (nombre de la organización), TU_USUARIO_TIKTOK, TU_NOMBRE, dominio.com y el WhatsApp.
 4. El perfil aparece en github.com/TU_ORG.
 
 SEO EN GITHUB (hazlo también fuera del README)
-- Settings de la organización: completa Description, Website, Email, Location y Twitter/LinkedIn.
+- Settings de la organización: completa Description, Website, Email, Location y TikTok y redes sociales.
 - En cada repo público: agrega Description y Topics (laravel, elysia, nestjs, expressjs, vuejs, solidjs, flutter, react-native, software-a-medida).
 - Fija (pin) tus mejores repos y cambia proyecto-1/proyecto-2 por los reales.
 - El enlace al sitio web debe tener su propio SEO (title, meta description, sitemap); GitHub enlaza hacia él.
