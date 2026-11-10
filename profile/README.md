@@ -116,11 +116,11 @@ Nada de soluciones genéricas: entendemos tu proceso y luego diseñamos la herra
 ---
 
 ⚙️ Tecnologías con las que trabajamos
-<div align="center"> <img src="https://raw.githubusercontent.com/techies-4j/.github/main/profile/assets/tecnologias.svg" alt="Tecnologías de TECHIES. Frontend: Vue.js, React, SolidJS, Tailwind CSS. Backend: Laravel, Elysia, Node.js. Móvil: Flutter. Lenguajes: JavaScript, TypeScript, PHP, Python, C++, Dart. Datos: PostgreSQL, MySQL, SQLite. DevOps: Git, GitHub." width="100%" /> </div> <details> <summary><b>Ver la lista en texto</b></summary> <br/>
+<div align="center"> <img src="https://raw.githubusercontent.com/techies-4j/.github/main/profile/assets/tecnologias.svg" alt="Tecnologías de TECHIES. Frontend: Vue.js, React, SolidJS, Tailwind CSS. Backend: Laravel, Elysia, NestJS, Express.js. Móvil: Flutter, React Native. Lenguajes: JavaScript, TypeScript, PHP, Python, Dart. Datos: PostgreSQL, MySQL, SQLite. DevOps: Git, GitHub." width="100%" /> </div> <details> <summary><b>Ver la lista en texto</b></summary> <br/>
 Frontend: Vue.js, React, SolidJS, Tailwind CSS
-Backend: Laravel, Elysia, Node.js
-Móvil: Flutter
-Lenguajes: JavaScript, TypeScript, PHP, Python, C++, Dart
+Backend: Laravel, Elysia, NestJS, Express.js
+Móvil: Flutter, React Native
+Lenguajes: JavaScript, TypeScript, PHP, Python, Dart
 Datos: PostgreSQL, MySQL, SQLite
 DevOps: Git, GitHub
 </details>
