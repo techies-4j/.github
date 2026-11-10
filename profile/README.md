@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:121214,55:0B2A3F,100:0A6C99&height=170&section=header&animation=fadeIn" alt="" width="100%" />
 
-<img src="https://raw.githubusercontent.com/TU_ORG/.github/main/profile/assets/logo-vertical.png" alt="TECHIES" height="190" />
+<img src="https://raw.githubusercontent.com/techies-4j/.github/main/profile/assets/logo-vertical.png" alt="TECHIES" height="190" />
 
 <h3>Desarrollo de software a medida</h3>
 
